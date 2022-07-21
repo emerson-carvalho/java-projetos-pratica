@@ -1,2 +1,2 @@
 # java-projetos-pratica
-Exercícios de Java
+Repositório destinado para meus exercícios realizados durante aprendizado.
